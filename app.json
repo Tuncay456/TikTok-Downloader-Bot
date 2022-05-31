@@ -1,5 +1,5 @@
 {
-  "name": "JayBee TikTok Downloader Bot",
+  "name": "Tiiktokdownload_bot",
   "description": "A Telegram bot to download TikTok videos without any watermark",
   "logo" : "https://telegra.ph/file/05bae0725724007c72fa1.jpg",
   "success_url" : "https://t.me/JayBeeBots",
@@ -10,7 +10,7 @@
     "jaybee"
   ],
   "repository": "https://github.com/TerminalWarlord/TikTok-Downloader-Bot",
-  "website": "https://github.com/TerminalWarlord/TikTok-Downloader-Bot",
+  "website": "https://github.com/Tuncay456/TikTok-Downloader-Bot?organization=Tuncay456&organization=Tuncay456",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot Bot Token, get this value from @BotFather.",
@@ -29,7 +29,7 @@
       "value": ""
     },
     "BOT_URL": {
-      "description": "Username of your Telegram Bot (without @). Example: JayBeeTikTokBot",
+      "description": "Username of your Telegram Bot (without @). Example: Tiiktokdownload_bot",
       "value": ""
     },
     "WORKERS": {
